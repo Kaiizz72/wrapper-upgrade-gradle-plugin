@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Anime Voice</string>
+    <string-array name="voices">
+        <item>Anime Nữ</item>
+        <item>Anime Nam</item>
+    </string-array>
+</resources>
